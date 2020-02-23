@@ -1,7 +1,7 @@
 # Computationally Efficient, Accurate and Real-Time Detection of Colon Polyps Using Deep Neural Networks
-Aalok Patwa
+Aalok Patwa, Archbishop Mitty High School, San Jose, CA
 
-Presented to 
+presented to:
 
 Synopsys Science Fair, Silicon Valley, March 2019 
 

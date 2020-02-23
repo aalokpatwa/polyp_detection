@@ -1,6 +1,11 @@
 # Computationally Efficient, Accurate and Real-Time Detection of Colon Polyps Using Deep Neural Networks
 Aalok Patwa
-Presented to Synopsys Science Fair, Silicon Valley, 2019
+
+Presented to 
+
+Synopsys Science Fair, Silicon Valley, March 2019 
+
+Tensorflow World Conference, Santa Clara October 2019
 
 Colorectal cancer is the second leading cause of cancer-related death in the United States, and early detection of
 precancerous polyps (adenomas) in the colon increases the chance of survival. However, the Adenoma Detection

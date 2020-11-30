@@ -1,12 +1,8 @@
 # Computationally Efficient, Accurate and Real-Time Detection of Colon Polyps Using Deep Neural Networks
-Aalok Patwa, Archbishop Mitty High School, San Jose, CA
-
-presented to:
-
-Synopsys Science Fair, Silicon Valley, March 2019 
-
-Tensorflow World Conference, Santa Clara October 2019
-
+- 1st in Category Award, Synopsys Science Fair, Silicon Valley, March 2019 
+- Presented at Tensorflow World Conference, Santa Clara October 2019
+## Abstract
+```
 Colorectal cancer is the second leading cause of cancer-related death in the United States, and early detection of
 precancerous polyps (adenomas) in the colon increases the chance of survival. However, the Adenoma Detection
 Rate (ADR) during screening colonoscopies varies between 7-53%, and the likelihood of missed colorectal cancer
@@ -47,3 +43,4 @@ Thus I created a novel neural network architecture that accurately identifies co
 model achieves high Dice Scores on challenging datasets, all while being 84% smaller and using 96% less training
 images than existing solutions. My model can increase ADR, identify polyps, and nip colorectal cancer in the bud.
 Nobody likes preparing for a colonoscopy, but using this network, the procedure could improve vastly!
+```
